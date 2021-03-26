@@ -1,0 +1,28 @@
+@import "../../variables.scss";
+
+.checkResult {
+  font-weight: 400;
+  display: inline-flex;
+  font-size: 12px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  line-height: 1;
+  border-radius: 4px;
+  padding: 1px 3px;
+
+  &.warning {
+    color: $warningColor;
+    background: $warningColorVar1;
+  }
+
+  &.error {
+    color: $errorColor;
+    background: $errorColorVar1;
+  }
+
+  &.success {
+    color: $successColor;
+    background: $successColorVar1;
+  }
+}

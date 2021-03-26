@@ -1,0 +1,1602 @@
+{
+  "ruleCheckObj": {
+    "Root": {
+      "App.scss": {
+        "consoleLogCount": 0,
+        "todoCount": 0
+      },
+      "App.tsx": {
+        "consoleLogCount": 0,
+        "todoCount": 0
+      },
+      "Assets": {
+        "Audios": {
+          "Horse.mp3": {
+            "consoleLogCount": 0,
+            "todoCount": 0,
+            "checkedVersion": "Not targeted"
+          },
+          "Horse.ogv": {
+            "consoleLogCount": 0,
+            "todoCount": 0,
+            "checkedVersion": "Not targeted"
+          }
+        },
+        "Fonts": {
+          "Lora": {
+            "LoraBold.ttf": {
+              "consoleLogCount": 0,
+              "todoCount": 0,
+              "checkedVersion": "Not targeted"
+            },
+            "LoraItalic.ttf": {
+              "consoleLogCount": 0,
+              "todoCount": 0,
+              "checkedVersion": "Not targeted"
+            },
+            "LoraRegular.ttf": {
+              "consoleLogCount": 0,
+              "todoCount": 0,
+              "checkedVersion": "Not targeted"
+            }
+          },
+          "Roboto": {
+            "RobotoBold.ttf": {
+              "consoleLogCount": 0,
+              "todoCount": 0,
+              "checkedVersion": "Not targeted"
+            },
+            "RobotoItalic.ttf": {
+              "consoleLogCount": 0,
+              "todoCount": 0,
+              "checkedVersion": "Not targeted"
+            },
+            "RobotoRegular.ttf": {
+              "consoleLogCount": 0,
+              "todoCount": 0,
+              "checkedVersion": "Not targeted"
+            }
+          }
+        },
+        "Images": {
+          "Workplace.jpg": {
+            "consoleLogCount": 0,
+            "todoCount": 0,
+            "checkedVersion": "Not targeted"
+          }
+        },
+        "Scss": {
+          "BLC": {
+            "BLC.scss": {
+              "consoleLogCount": 0,
+              "todoCount": 1
+            },
+            "Components": {
+              "BoostedButton.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "ButtonGroup.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Details.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Dialog.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0,
+                "checkedVersion": "1.0"
+              },
+              "Drawer": {
+                "BottomDrawer.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "LeftDrawer.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RightDrawer.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "TopDrawer.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "_Drawer.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Dropdown": {
+                "BottomDropdown.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "LeftDropdown.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RightDropdown.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "TopDropdown.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "_Dropdown.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 2
+                }
+              },
+              "ExpansionBlock.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Grid": {
+                "Col.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "Container.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "Row.scss": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "LoadingIndicator.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Spinner.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "SpinnerIndicator.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "Config.scss": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            },
+            "CustomClasses": {
+              "Lists.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Table.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 1
+              }
+            },
+            "Defaults.scss": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            },
+            "Elements": {
+              "Abbreviation.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Address.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Article.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Aside.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Audio.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "BiDirectionalIsolation.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "BiDirectionalOverride.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Blockquote.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Bold.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Button.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Canvas.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Citation.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Code.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Data.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Definition.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Deleted.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Details.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Dialog.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Div.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Embed.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Emphasized.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Figure.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Footer.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Form.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Header.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Headings.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "HorizontalLine.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Hyperlink.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Idiomatic.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Iframe.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Image.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Inserted.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "KeyboardInput.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Label.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Lists.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Main.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Map.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Mark.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Meter.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Navigation.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Object.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Output.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Paragraph.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Picture.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Preformatted.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Progress.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Quote.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Sample.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Section.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Small.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Span.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "StrikeThrough.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Strong.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Subscript.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Superscript.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Svg.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Table.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Template.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Time.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Unarticulated.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Variable.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Video.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "Utils.scss": {
+              "consoleLogCount": 0,
+              "todoCount": 1
+            }
+          },
+          "Custom": {
+            "CustomClasses": {
+              "Button.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "Fonts.scss": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            }
+          }
+        },
+        "Videos": {
+          "Movie.mp4": {
+            "consoleLogCount": 0,
+            "todoCount": 0,
+            "checkedVersion": "Not targeted"
+          },
+          "Movie.ogv": {
+            "consoleLogCount": 0,
+            "todoCount": 0,
+            "checkedVersion": "Not targeted"
+          }
+        }
+      },
+      "index.tsx": {
+        "consoleLogCount": 1,
+        "todoCount": 0
+      },
+      "Layouts": {
+        "Site": {
+          "SiteLayout.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "SiteLayout.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "_Constants": {
+            "siteNavItems.ts": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            }
+          }
+        }
+      },
+      "Modules": {
+        "Layout": {
+          "BLC": {
+            "Components": {
+              "BoostedButton": {
+                "BoostedButton.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "ButtonGroup": {
+                "ButtonGroup.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "interface.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "DCR": {
+                "DCR.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "interface.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Details": {
+                "Details.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Dialog": {
+                "Dialog.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0,
+                  "checkedVersion": "1.0"
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0,
+                  "checkedVersion": "1.0"
+                },
+                "_Constants": {
+                  "modalBodyOverlayClass.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0,
+                    "checkedVersion": "1.0"
+                  },
+                  "modalItemSuffix.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0,
+                    "checkedVersion": "1.0"
+                  }
+                }
+              },
+              "Drawer": {
+                "Drawer.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 1
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "_Constants": {
+                  "drawerClassSuffix.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "openDrawerClass.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  }
+                }
+              },
+              "Dropdown": {
+                "Dropdown.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 1
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "ErrorBoundary": {
+                "ErrorBoundary.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "ExpansionBlock": {
+                "ExpansionBlock.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Grid": {
+                "Col": {
+                  "Col.tsx": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "interfaces.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "_Helpers": {
+                    "capitalizeProp.ts": {
+                      "consoleLogCount": 0,
+                      "todoCount": 0
+                    }
+                  }
+                },
+                "Container": {
+                  "Container.tsx": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "interfaces.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  }
+                },
+                "Row": {
+                  "interfaces.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "Row.tsx": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  }
+                }
+              },
+              "LoadingIndicator": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "LoadingIndicator.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Spinner": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "Spinner.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "SpinnerIndicator": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "SpinnerIndicator.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              }
+            },
+            "Contexts": {
+              "Layout": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "LayoutContext.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "_Helpers": {
+                  "calculateLayoutValues.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  }
+                }
+              }
+            },
+            "Hooks": {
+              "useAnimationControl": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0,
+                  "checkedVersion": "1.0"
+                },
+                "useAnimationControl.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0,
+                  "checkedVersion": "1.0"
+                },
+                "_Constants": {
+                  "animationControlStates.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0,
+                    "checkedVersion": "1.0"
+                  }
+                },
+                "_Helpers": {
+                  "checkElementAnimation.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0,
+                    "checkedVersion": "1.0"
+                  },
+                  "getElementAnimationName.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0,
+                    "checkedVersion": "1.0"
+                  },
+                  "setLastElAnimations.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0,
+                    "checkedVersion": "1.0"
+                  }
+                }
+              },
+              "useBodyOverlayMod": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0,
+                  "checkedVersion": "1.0"
+                },
+                "useBodyOverlayMod.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0,
+                  "checkedVersion": "1.0"
+                }
+              },
+              "useExpansion": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "Parts": {
+                  "ManagedChildren": {
+                    "ManagedChildren.tsx": {
+                      "consoleLogCount": 0,
+                      "todoCount": 0
+                    }
+                  }
+                },
+                "useExpansion.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 2
+                },
+                "_Helpers": {
+                  "ExpansionStateGetters.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  }
+                }
+              }
+            },
+            "SmartComponents": {
+              "RuleCheckDisplayer": {
+                "interfaces.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 2
+                },
+                "Parts": {
+                  "RuleCheckItemDisplayer": {
+                    "interfaces.ts": {
+                      "consoleLogCount": 0,
+                      "todoCount": 0
+                    },
+                    "RuleCheckItemDisplayer.tsx": {
+                      "consoleLogCount": 0,
+                      "todoCount": 2
+                    }
+                  }
+                },
+                "RuleCheckDisplayer.tsx": {
+                  "consoleLogCount": 0,
+                  "todoCount": 2
+                },
+                "_Helpers": {
+                  "getAllSelectorsFromSelector.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "getIfFileItem.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  },
+                  "getRuleCheckData.ts": {
+                    "consoleLogCount": 2,
+                    "todoCount": 0
+                  },
+                  "sortVersions.ts": {
+                    "consoleLogCount": 0,
+                    "todoCount": 0
+                  }
+                }
+              }
+            },
+            "_Helpers": {
+              "checkElementTransition.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 1
+              },
+              "concatClassNames.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "createCommonComponentProps.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Enums": {
+                "createEnumObject.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "getEnumObjectById.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "getElementDimensions.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "getScrollbarWidth.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "_Interfaces": {
+              "CommonComponentProps.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "Enums": {
+                "EnumItem.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "EnumObject.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              }
+            }
+          },
+          "Components": {
+            "HorizontalNavbar": {
+              "HorizontalNavbar.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "HorizontalNavbar.tsx": {
+                "consoleLogCount": 0,
+                "todoCount": 1
+              },
+              "interfaces.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            }
+          }
+        },
+        "Routing": {
+          "ReactAutoRouting": {
+            "HelperLayout": {
+              "HelperLayout.tsx": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "RouteMapper": {
+              "interfaces.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "RouteMapper.tsx": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "RouteRenderer": {
+              "interfaces.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "RouteRenderer.tsx": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "_Constants": {
+              "defaultUserInfo.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "handledAuthTypes.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            },
+            "_Helpers": {
+              "Auth": {
+                "authCheckers.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "checkChildrenAuth.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "handleAuthMessage.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Generic": {
+                "combinations.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "deepMapNestedObject.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "ItemGetters": {
+                "getNestedItem.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "getNestedItemList.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "PathHandlers": {
+                "createAllRoutePaths.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "createPathsFromRouteList.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "createRoutePathObject.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "getAllRoutePaths.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "getRoutePath.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "RouteHandlers": {
+                "convertRouteToRouteAsParam.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "createRoutes.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "getDocumentTitle.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "processRoutes.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "SelectorHandlers": {
+                "checkIfSelectorIsParent.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "checkSelectorsParentChildRelation.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "checkSelectorsSiblingRelation.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "filterParentSelectors.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "findSiblingSelectors.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "findToBeRenderedSelector.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "getAllSelectorsFromSelector.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              }
+            },
+            "_Interfaces": {
+              "Auth": {
+                "AuthChecker.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "AuthRule.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "HandledAuthTypes.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 1
+                },
+                "UserInfo.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Generic": {
+                "NestableObject.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "PropHelpers": {
+                "LayoutProps.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "PageProps.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              },
+              "Routes": {
+                "Route.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RouteAsParam.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RouteAsProp.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RouteBase.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RouteComponent.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                },
+                "RoutePartial.ts": {
+                  "consoleLogCount": 0,
+                  "todoCount": 0
+                }
+              }
+            }
+          },
+          "_Constants": {
+            "lazyLayouts.ts": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            },
+            "lazyPages.ts": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            },
+            "routePaths.ts": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            },
+            "routes.ts": {
+              "consoleLogCount": 0,
+              "todoCount": 0
+            }
+          }
+        }
+      },
+      "Pages": {
+        "Components": {
+          "ComponentsPage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "ComponentsPage.tsx": {
+            "consoleLogCount": 4,
+            "todoCount": 2
+          }
+        },
+        "DefaultElements": {
+          "DefaultElementsPage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "DefaultElementsPage.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "Parts": {
+            "ElementDisplay": {
+              "ElementDisplay.scss": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "ElementDisplay.tsx": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              },
+              "interfaces.ts": {
+                "consoleLogCount": 0,
+                "todoCount": 0
+              }
+            }
+          }
+        },
+        "Error": {
+          "ErrorPage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "ErrorPage.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          }
+        },
+        "Home": {
+          "HomePage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "HomePage.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          }
+        },
+        "Hooks": {
+          "HooksPage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "HooksPage.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 1
+          }
+        },
+        "NotFound": {
+          "NotFoundPage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "NotFoundPage.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          }
+        },
+        "RuleChecker": {
+          "RuleCheckerPage.scss": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          },
+          "RuleCheckerPage.tsx": {
+            "consoleLogCount": 0,
+            "todoCount": 0
+          }
+        }
+      },
+      "react-app-env.d.ts": {
+        "consoleLogCount": 0,
+        "todoCount": 0
+      },
+      "reportWebVitals.ts": {
+        "consoleLogCount": 0,
+        "todoCount": 0
+      },
+      "setupTests.ts": {
+        "consoleLogCount": 0,
+        "todoCount": 0
+      }
+    }
+  },
+  "folderData": {
+    "Root": {
+      "consoleLogCount": 7,
+      "todoCount": 21
+    },
+    "Root/Assets": {
+      "consoleLogCount": 0,
+      "todoCount": 5
+    },
+    "Root/Assets/Audios": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "Not targeted"
+    },
+    "Root/Assets/Fonts": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "Not targeted"
+    },
+    "Root/Assets/Fonts/Lora": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "Not targeted"
+    },
+    "Root/Assets/Fonts/Roboto": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "Not targeted"
+    },
+    "Root/Assets/Images": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "Not targeted"
+    },
+    "Root/Assets/Scss": {
+      "consoleLogCount": 0,
+      "todoCount": 5
+    },
+    "Root/Assets/Scss/BLC": {
+      "consoleLogCount": 0,
+      "todoCount": 5
+    },
+    "Root/Assets/Scss/BLC/Components": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Assets/Scss/BLC/Components/Drawer": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Assets/Scss/BLC/Components/Dropdown": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Assets/Scss/BLC/Components/Grid": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Assets/Scss/BLC/CustomClasses": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Assets/Scss/BLC/Elements": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Assets/Scss/Custom": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Assets/Scss/Custom/CustomClasses": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Assets/Videos": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "Not targeted"
+    },
+    "Root/Layouts": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Layouts/Site": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Layouts/Site/_Constants": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules": {
+      "consoleLogCount": 2,
+      "todoCount": 13
+    },
+    "Root/Modules/Layout": {
+      "consoleLogCount": 2,
+      "todoCount": 12
+    },
+    "Root/Modules/Layout/BLC": {
+      "consoleLogCount": 2,
+      "todoCount": 11
+    },
+    "Root/Modules/Layout/BLC/Components": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Modules/Layout/BLC/Components/BoostedButton": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/ButtonGroup": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/DCR": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Details": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Dialog": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "1.0"
+    },
+    "Root/Modules/Layout/BLC/Components/Dialog/_Constants": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "1.0"
+    },
+    "Root/Modules/Layout/BLC/Components/Drawer": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Layout/BLC/Components/Drawer/_Constants": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Dropdown": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Layout/BLC/Components/ErrorBoundary": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/ExpansionBlock": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Grid": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Grid/Col": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Grid/Col/_Helpers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Grid/Container": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Grid/Row": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/LoadingIndicator": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/Spinner": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Components/SpinnerIndicator": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Contexts": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Contexts/Layout": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Contexts/Layout/_Helpers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Hooks": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Modules/Layout/BLC/Hooks/useAnimationControl": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "1.0"
+    },
+    "Root/Modules/Layout/BLC/Hooks/useAnimationControl/_Constants": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "1.0"
+    },
+    "Root/Modules/Layout/BLC/Hooks/useAnimationControl/_Helpers": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "1.0"
+    },
+    "Root/Modules/Layout/BLC/Hooks/useBodyOverlayMod": {
+      "consoleLogCount": 0,
+      "todoCount": 0,
+      "checkedVersion": "1.0"
+    },
+    "Root/Modules/Layout/BLC/Hooks/useExpansion": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Modules/Layout/BLC/Hooks/useExpansion/Parts": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Hooks/useExpansion/Parts/ManagedChildren": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/Hooks/useExpansion/_Helpers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/SmartComponents": {
+      "consoleLogCount": 2,
+      "todoCount": 6
+    },
+    "Root/Modules/Layout/BLC/SmartComponents/RuleCheckDisplayer": {
+      "consoleLogCount": 2,
+      "todoCount": 6
+    },
+    "Root/Modules/Layout/BLC/SmartComponents/RuleCheckDisplayer/Parts": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Modules/Layout/BLC/SmartComponents/RuleCheckDisplayer/Parts/RuleCheckItemDisplayer": {
+      "consoleLogCount": 0,
+      "todoCount": 2
+    },
+    "Root/Modules/Layout/BLC/SmartComponents/RuleCheckDisplayer/_Helpers": {
+      "consoleLogCount": 2,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/_Helpers": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Layout/BLC/_Helpers/Enums": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/_Interfaces": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/BLC/_Interfaces/Enums": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Layout/Components": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Layout/Components/HorizontalNavbar": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Routing": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Routing/ReactAutoRouting": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Routing/ReactAutoRouting/HelperLayout": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/RouteMapper": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/RouteRenderer": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Constants": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers/Auth": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers/Generic": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers/ItemGetters": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers/PathHandlers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers/RouteHandlers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Helpers/SelectorHandlers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Interfaces": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Interfaces/Auth": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Interfaces/Generic": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Interfaces/PropHelpers": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/ReactAutoRouting/_Interfaces/Routes": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Modules/Routing/_Constants": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages": {
+      "consoleLogCount": 4,
+      "todoCount": 3
+    },
+    "Root/Pages/Components": {
+      "consoleLogCount": 4,
+      "todoCount": 2
+    },
+    "Root/Pages/DefaultElements": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages/DefaultElements/Parts": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages/DefaultElements/Parts/ElementDisplay": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages/Error": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages/Home": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages/Hooks": {
+      "consoleLogCount": 0,
+      "todoCount": 1
+    },
+    "Root/Pages/NotFound": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    },
+    "Root/Pages/RuleChecker": {
+      "consoleLogCount": 0,
+      "todoCount": 0
+    }
+  }
+}

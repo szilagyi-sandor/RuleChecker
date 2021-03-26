@@ -1,0 +1,58 @@
+@import "../../variables.scss";
+
+$indent: 15px;
+
+.fileDisplayer {
+  > span {
+    padding: 5px 0 5px $indent;
+    display: inline-block;
+    position: relative;
+
+    &:before {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      width: $indent - 5;
+      height: 2px;
+      line-height: 0;
+      left: 0;
+      top: 50%;
+      transform: translate(0, -50%);
+      border-top: 1px solid;
+    }
+
+    &:after {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      width: $indent;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      border-left: 1px solid;
+    }
+  }
+
+  &.success {
+    color: $successColor;
+    fill: $successColor;
+  }
+
+  &.warning {
+    color: $warningColor;
+    fill: $warningColor;
+  }
+
+  &.error {
+    color: $errorColor;
+    fill: $errorColor;
+  }
+
+  &.last {
+    > span {
+      &:after {
+        bottom: 50%;
+      }
+    }
+  }
+}

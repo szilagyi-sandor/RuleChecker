@@ -1,0 +1,37 @@
+.fileIcon {
+  font-weight: 400;
+  display: inline-flex;
+  width: 30px;
+  height: 16px;
+  font-size: 12px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  line-height: 1;
+  border-radius: 4px;
+
+  &.ts {
+    color: #0385d2;
+  }
+
+  &.tsx {
+    color: #0385d2;
+  }
+
+  &.js {
+    color: #efd81d;
+  }
+
+  &.jsx {
+    color: #efd81d;
+  }
+
+  &.scss {
+    color: #ca6196;
+  }
+
+  &.css {
+    color: #006fb5;
+  }
+}
