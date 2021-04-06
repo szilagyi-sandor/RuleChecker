@@ -16,9 +16,7 @@ export default function RuleCheckDisplayer({
   FolderDisplayer,
   FileDisplayer,
 }: RuleCheckDisplayerProps) {
-  const ruleCheckUrl = `${
-    ruleCheckUrlBase ? `${ruleCheckUrlBase}/` : ``
-  }ruleCheck.json`;
+  const _ruleCheckUrlBase = ruleCheckUrlBase ? ruleCheckUrlBase : "";
   const _FolderDisplayer = FolderDisplayer
     ? FolderDisplayer
     : DefaultFolderDisplayer;
@@ -34,12 +32,16 @@ export default function RuleCheckDisplayer({
   // Getting the ruleCheck.json from file.
   useEffect(() => {
     const abortController = abortControllerRef.current;
-    getRuleCheckData(ruleCheckUrl, setRuleCheckResponse, abortController);
+    getRuleCheckData(
+      `${_ruleCheckUrlBase}/ruleCheck.json`,
+      setRuleCheckResponse,
+      abortController
+    );
 
     return () => {
       abortController.abort();
     };
-  }, [ruleCheckUrl]);
+  }, [_ruleCheckUrlBase]);
 
   return (
     <div className="ruleCheckDisplayer">
