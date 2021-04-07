@@ -23,18 +23,17 @@ export const getRuleCheckData = async (
   } catch (error) {
     if (error.name === "SyntaxError") {
       console.log("Invalid syntax in ruleCheck.json.");
-      setRuleCheckObj({
-        folderData: {},
-        ruleCheckObj: {},
-      });
-      return;
     }
 
     if (error.name === "AbortError") {
       console.log("Request to get ruleCheck.json was cancelled.");
-      return;
     }
 
     console.error(error);
+
+    setRuleCheckObj({
+      folderData: {},
+      ruleCheckObj: {},
+    });
   }
 };
